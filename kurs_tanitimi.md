@@ -26,10 +26,10 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 &#9888;Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir.<br> &#9888;Programa uygun olup olmadığınız konusunda şüpheleriniz varsa &#128279;__[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)__ ile görüşebilirsiniz.
 
 ## Eğitim Süresi
-&#9200; Programın toplam süresi __180__ saattir. 
+&#9200; Programın toplam süresi __200__ saattir. 
 
 ## Ders Günleri ve Saatleri
-&#128197; &#9200;	Dersler __Cumartesi ve Pazar__ günleri __09:00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
+&#128197; &#9200;	Dersler __Pazartesi, Çarşamba ve Cuma__ günleri __19:30 – 22.30__ saatleri arasında __3’er saat__ olarak yapılacaktır.
 
 ## Eğitim İçeriği
 &#128279;__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)__
