@@ -38,6 +38,7 @@ _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. 
 __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
+[Accenture](https://www.accenture.com/us-en),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
@@ -56,8 +57,10 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
 [Ctech](https://ctech.com.tr/tr),
+[Daiichi](https://www.daiichi.com/tr/ana-sayfa/),
 [E-data Teknoloji](https://e-data.com.tr/),
 [EEC Electronics](https://eecelectronics.com.tr/),
+[Ellamp Otomotiv](https://www.ellamp.it/en/),
 [Entes Elektronik](http://entes.com/tr/), 
 [Erdemir](https://www.erdemir.com.tr/), 
 [Garanti BBVA](https://www.garantibbva.com.tr/tr), 
