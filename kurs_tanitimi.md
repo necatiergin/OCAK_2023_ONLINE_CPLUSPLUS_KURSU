@@ -55,6 +55,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [BSH](https://www.bsh-group.com/tr/), 
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
+[Ctech](https://ctech.com.tr/tr),
 [E-data Teknoloji](https://e-data.com.tr/),
 [EEC Electronics](https://eecelectronics.com.tr/),
 [Entes Elektronik](http://entes.com/tr/), 
