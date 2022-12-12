@@ -9,6 +9,8 @@
 💰️ Programın toplam ücreti **11.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **10.000** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
 ℹ️   Kursta __Modern C++__ anlatılmaktadır. _C++11_, _C++14_ ve _C++17_ standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. _C++20_ standartları hakkında genel bilgiler verilmektedir.<br>
 
+⚠Kursta C++ dilinin C'den aldığı genel sentaks ögeleri ve standart kütüphane bileşenleri anlatılmamaktadır. Kurs katılımcılarının temel düzeyde C diline hakim oldukları varsayılmaktadır.
+
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/OCAK_2023_ONLINE_CPLUSPLUS_KURSU/blob/main/kurs_tanitimi.md)<br>
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/kurs_programlari/blob/main/cplusplus_kurs_icerigi.md)<br>
